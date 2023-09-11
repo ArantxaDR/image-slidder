@@ -1,2 +1,2 @@
 # image-slidder
-Image slidder with HTML, CSS and JS
+Image slidder with HTML and CSS 
